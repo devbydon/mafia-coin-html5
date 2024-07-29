@@ -1,0 +1,30 @@
+﻿{
+	"version": 1722273388,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/executive_character_flying-sheet0.png",
+		"images/dall·e20240728190111createpixelated80sarcadestylespritesofcryptocurrencyitemsincludeagoldbitcoincoinandagreendollarbilleachitemshouldha-sheet0.png",
+		"images/btc-sheet0.png",
+		"images/upperpipe-sheet0.png",
+		"images/bottompipe-sheet0.png",
+		"images/tiledbackground3.png",
+		"images/pipebottom-sheet0.png",
+		"images/pipetop-sheet0.png",
+		"images/pipetop2-sheet0.png",
+		"images/capamenu-sheet0.png",
+		"images/capafinal-sheet0.png",
+		"images/pipetop3-sheet0.png",
+		"images/start-sheet0.png",
+		"images/start2-sheet0.png",
+		"media/song.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
